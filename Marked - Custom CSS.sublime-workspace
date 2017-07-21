@@ -1,0 +1,1009 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"light",
+				"lighten"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bacg",
+				"background-size"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"end",
+				"end_event"
+			],
+			[
+				"sub",
+				"sub-menu"
+			],
+			[
+				"tran",
+				"transition-duration"
+			],
+			[
+				"transition",
+				"transition-delay"
+			],
+			[
+				"wp",
+				"wp_query"
+			],
+			[
+				"sit",
+				"site-description"
+			],
+			[
+				"post",
+				"posts_per_page"
+			],
+			[
+				"cfc_",
+				"cfc_expo_statut"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"the",
+				"the_post"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"com",
+				"comments"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"star",
+				"start_event"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"use",
+				"user_msg"
+			],
+			[
+				"user_",
+				"user_msg"
+			],
+			[
+				"user",
+				"user_mail"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"order",
+				"orderby"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"gra",
+				"cfc_body_bg_gradient"
+			],
+			[
+				"site",
+				"site-title"
+			],
+			[
+				"bcom",
+				"bcom\tbig-css-comment"
+			],
+			[
+				"cfc",
+				"cfc_actus"
+			],
+			[
+				"post_",
+				"post_type"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"client",
+				"clientPath"
+			],
+			[
+				"page",
+				"page"
+			],
+			[
+				"vertical",
+				"vertical-align"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_test/markdown.html",
+			"settings":
+			{
+				"buffer_size": 8792,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_in/sass/stylesheet.scss",
+			"settings":
+			{
+				"buffer_size": 11255,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 323.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"can",
+				"Can I Switch To Sublime Text 3?"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: bgi",
+				"Snippet: background-image"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"xiki",
+				"Create Xiki Buffer"
+			],
+			[
+				"jinja\t",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 173.0,
+		"history":
+		[
+			"import locale; locale.getpreferredencoding()",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/OSX Data/Users/vivien/Dropbox/Applications/Marked/Marked - Custom CSS.sublime-project",
+		"/Volumes/OSX Data/Users/vivien/Dropbox/Applications/Marked/markdown.html",
+		"/Volumes/OSX Data/Users/vivien/Dropbox/Applications/Marked/index.html",
+		"/Volumes/OSX Data/Users/vivien/Dropbox/Applications/Marked/sass/stylesheet.scss",
+		"/Volumes/OSX Data/Users/vivien/Dropbox/Applications/Marked - Custom CSS/index.php",
+		"/Volumes/OSX Data/Users/vivien/Dropbox/Applications/Marked - Custom CSS/vivien.css",
+		"/Volumes/OSX Data/Users/vivien/Dropbox/Applications/Marked - Custom CSS/vivien.scss",
+		"/Volumes/Data/vivien/Outils/Recherches - Développement/CSS/Formatage CSS.md",
+		"/Volumes/Data/vivien/Sites/Web/Lab/Divers/markdown_css/index.php",
+		"/Volumes/Data/vivien/Library/Application Support/Marked/Custom CSS/vivien.css",
+		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 2/Packages/Theme - Nexus/Nexus.sublime-theme",
+		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 2/Packages/Theme - Default/Default.sublime-theme",
+		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 2/Packages/Theme - Nexus/Nexus.tmTheme",
+		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 2/Packages/Theme - Nexus/nexus-theme.png",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/404.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/1535D341-0D34-447E-B05D-B99ED118E104/functions.php",
+		"/Volumes/Data/vivien/Sites/Web/Lab/Divers/sir-trevor-js/examples/index.html",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/960B8A46-E204-42D0-A826-DB1801B17D21/functions.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/D26E4D24-9636-4C74-A2E2-4D5AB61906AE/.htaccess",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/8D017EF7-7B72-484D-A6A6-E0B7E1984C4F/i.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/388B288F-6109-4D2F-B7B9-5BC40F17E363/functions.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/6CE16972-2C71-4887-80C5-3746B3225FD4/.ovhconfig",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/D5E5BE22-7775-498D-AFDC-803101E3B875/youtube-shortcode.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/2F214B3B-6989-407D-B7CA-A548EA15EF9D/LaunchServer.sh",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/3F2A1B0B-6945-4FD9-8A3E-8C9932A99FDD/wp-config.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/DE7E594B-546A-49EE-9D57-1F0FEEA20D43/wp-config.php",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-config.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/99C30D24-F5F3-4E28-8656-D81565864E86/style.css",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/A1862906-5200-42BA-9D07-9C88E1A90B5F/footer.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/DEA183A8-F3B3-4E02-8278-AABCE8F18FEA/style.css",
+		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/CE3F0774-8659-4556-A143-8EA2E401C672/wp-login.php",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/footer.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/50B2E226-1A85-4CC6-9E94-28EA1A301B3D/wp-login.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/9283EE17-9C95-4E88-B89F-63D7A57F36B5/wp-config.php",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/style.css",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/07930C7E-6726-43AF-BD13-D9C7E6A75182/wp-config.php",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/js/main.js",
+		"/Volumes/Data/vivien/Library/Application Support/Sublime Text 2/Packages/User/snippets/is jquery loaded.sublime-snippet",
+		"/Volumes/Data/vivien/Sites/Web/Lab/Noway/wordpress_1/wp-content/themes/noway/header.php",
+		"/Volumes/Data/vivien/Sites/Web/Lab/Noway/wordpress_1/wp-content/themes/noway/footer.php",
+		"/Volumes/Data/vivien/Sites/Web/Lab/Zaynab/prestashop-import_bdd/header.php",
+		"/Volumes/Data/vivien/Sites/Web/Lab/Zaynab/prestashop-import_bdd/index.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/7EB4D1C9-95D2-4BB1-9603-F7CE5AFDF327/wp-login.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/65BBE761-8C6C-4592-B01A-F1EFD305390D/index.html",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/64BECC07-CEDF-4CE1-BEC5-84F8F74F0BF2/.htaccess",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/A38E380D-BCB0-45F2-BA17-535533005A04/.htaccess",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/C26AA3B1-1D4B-4141-9116-25ED2B869B52/wp-login.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/BDA00061-7C27-423C-A3AE-4FE99709C7B2/wp-config.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/220EAE95-68F3-4F9C-8400-CE74C1ED449C/.htaccess",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/B61B81AB-B375-49D6-AB5A-0A71D09F6D58/.htaccess",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/6EFA1F37-58EB-4728-AEFD-1A88EC532329/index.html",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/C6607D54-FF36-440D-B474-F10CF04507FD/i.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/9AA41378-8032-484A-8535-FCEED359EBEC/.htaccess",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/3F1A3826-2C27-4517-9491-0B7863B81932/.htaccess",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/05A131E1-554B-4F21-807C-283CD0CDBEE6/.forward",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/64467355-B82E-4F1F-BCBE-5471A42FEC5D/.htaccess",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/D72DE2D6-A935-4CC3-926D-F7BDE850E799/.htaccess",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/56D47D73-E505-4C94-BF35-AB97F81F9ACF/.htaccess",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/A97156E1-BD5B-4074-B004-EBCA0CBDB61F/wp-config.php",
+		"/Volumes/Data/vivien/Sites/Web/Vivien Garcia/Applications/p2.viviengarcia.com/wp-content/themes/p2/inc/mentions.php",
+		"/Volumes/Data/vivien/Sites/Web/Vivien Garcia/Applications/p2.viviengarcia.com/wp-content/themes/p2/inc/utils.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/0BC0CAC1-6953-41BF-AF5C-859730D66A23/style.css",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/9E8FEA46-E889-46BE-A101-B30B74054A85/cfc_custom.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/53E1696F-E216-4F55-A1F5-18DDDC58096B/page-home.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/79F390B3-7331-48D2-8BB6-DB035CD97E34/page-home.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/56758E0D-FE05-4785-A635-E2652BC1B8EC/cfc_custom.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/B4BF45ED-5164-465D-81B8-21A65959784B/page-home.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/007991CB-2B18-4B9E-A018-7869DF76F3F3/cfc_custom.php",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/js/jquery.fitvid.js",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass/custom_login.scss",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/8BF8CB86-7EBE-4EF2-B4BA-F56A50CCEE7F/page-home.php",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/page-home.php",
+		"/Volumes/Data/vivien/Sites/Web/Vivien Garcia/Applications/p2.viviengarcia.com/wp-config.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/CF9D5B51-807F-4126-9B39-0C2E05559686/style.css",
+		"/Volumes/Data/vivien/Sites/Web/Vivien Garcia/Applications/p2.viviengarcia.com/wp-content/themes/p2/header.php",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-includes/SimplePie/Cache/Base.php",
+		"/Volumes/Data/vivien/Desktop/page-home.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/586BBE63-B785-4EAD-A87A-F9A5D3B52B75/header.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/7803D396-2690-454C-9B27-2348C5D981F2/style.css",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/_derp/dans functions/cfc_links.php",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass/_base.scss",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass/style.scss",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/fabfile.py",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass/custom_admin.scss",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/custom_admin.css",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass/_sprite.scss",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/css/custom_admin.css",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/version",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/B419347D-0314-42D0-9DC6-C1F50A0E951C/index.html",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/css/custom_login.css",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/A0E6438B-C058-4E3B-8375-C1DC9AC99F44/style.css",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/28C7DE21-7DD1-4938-B545-7E20F104248C/style.css",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass/fabfile.py",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass/deploy.py",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/5435663E-A74F-4F3A-9997-58FE012E9959/style.css",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/t-deploy.py",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/7A8F51CF-4912-44B7-B160-F6E1EE833919/style.css",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass/_ugly.scss",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass/_debug.scss",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/4CA691BD-E959-4207-8F22-C89354A1CE45/style.css",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/BC4ADA04-0C33-4AD4-8DB2-CF555CBF9AEA/header.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/A7F6D693-8372-4621-9845-468B7554ECB6/style.css",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass/_medias.scss",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/24AE28B8-7529-4409-A991-DB2FB7779496/header.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/3D5DA0F7-3D28-44CF-AF9C-4CBAD45C5D90/page-home.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/7C825A25-8C09-4B50-B833-162958D89011/style.css",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/68532FE2-0C28-4F04-894B-3C706CD1C3B0/wp-login.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/B2FA08A0-8059-4C5F-8D4F-EDE18A694019/wp-config.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/261A2E81-B634-42A6-AC5D-0C97E8C334B1/style.css",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/5771B88C-26F2-4F36-9ED6-1C398E8542E7/wp-config.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/13F61AD1-51E4-4675-9D62-A70CCF1252F8/wp-db.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/E021F6C4-430E-4A9F-AD92-F4F9F360EEBC/wp-config.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/66A09EA1-B6CB-4712-B48B-4AF703199037/.htaccess",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/010F0E1F-D201-47F9-8AF0-2899462AD877/Archive.zip",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/180892EC-385B-4CE0-BD8F-43921D9BD50F/index.html",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/6A1106DE-A30D-457C-B8A6-53B6159D900C/wp-login.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/35460902-365E-4AE4-9E65-D6F7CED3420D/urllllllllllllllllll.php",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-load.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/CD124793-B882-433B-8153-48F005BCCE62/.htaccess",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/.htaccess",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/53A580CC-1BBC-4A77-934A-512E5B918AD0/wp-config.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/3360D1EE-2489-475B-83D5-58F62A94453F/wp-config.php",
+		"/Volumes/Data/vivien/Library/Caches/Cleanup At Startup/Transmit/CF584055-F2D1-4333-BC9F-874E40DB7D37/Archive.zip",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-settings.php",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/single.php",
+		"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/page-rubrique.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle",
+			"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass",
+			"",
+			"/Volumes/Data/vivien/Sites/Web/Vivien Garcia/Applications/p2.viviengarcia.com/wp-content/themes/p2/",
+			"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass/",
+			"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle",
+			"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle/sass",
+			"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle,/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local",
+			"/Volumes/Data/vivien/Sites/Web/Cie Full Circle/cie-full-circle.local/wp-content/themes/cie-full-circle",
+			"/Volumes/Data/vivien/Sites/Web/Lab/Frameworks/nanoc/local.blog.viviengarcia.com",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"__",
+			"wrapper",
+			"h1",
+			"first-child",
+			"li > :first-child",
+			"darken",
+			"$link",
+			"#f9f9f9",
+			"code",
+			"code, tt",
+			"ul ",
+			"code",
+			"e",
+			"d",
+			"color",
+			"\n\tcolor: $dark;",
+			"Helvetica",
+			"h4",
+			"5",
+			"#wrapper",
+			"minimap_control",
+			"Behind",
+			"scene",
+			"Back",
+			"true",
+			"p>",
+			"p",
+			".page-header",
+			"};",
+			"url",
+			";",
+			":",
+			";",
+			"monsite.com",
+			"vg_fade",
+			"vg_cible",
+			"'",
+			"\"",
+			"jQuery",
+			"test p",
+			"cible",
+			"$(\"#vgfadein\")",
+			"vg_fadein",
+			"opacity",
+			"monsite.com",
+			"ciefullcirclewp",
+			"active",
+			"//",
+			"h2",
+			"false",
+			"p ",
+			"$name ",
+			"$name",
+			"<a href=",
+			"mention",
+			"p2-task-list",
+			"img-link",
+			"1px solid adjust-saturation(lighten($hlink, 26%), -8%);",
+			"darken",
+			"site-title",
+			"all",
+			".current-menu-item ",
+			"$color-background",
+			"h1",
+			", ",
+			"custom-list--teaser",
+			"H1",
+			"small",
+			"event_start",
+			"cfc_expo_order",
+			"site-title",
+			"white",
+			"cfc_expo_statut",
+			"meta_",
+			"date_evenement",
+			"date_",
+			"\t\t\t\t<div class=\" inblock txtcenter \"><a href=\"<?php bloginfo('url'); ?>\" class=\" site-logo \"></a></div>\n\t\t\t\t<div class=\" inblock txtcenter \"><a href=\"<?php bloginfo('url'); ?>\" class=\" site-logo \"></a></div>\nsite-logo",
+			"txtcenter",
+			"cfc-content-pic",
+			"cell",
+			"cfc-content-pic",
+			"vg-content-block",
+			"iframe-frame",
+			", ",
+			"input[type=\"text\"]",
+			"box-shadow",
+			"logo-old",
+			"logo-old.png",
+			"layout__table-cell ",
+			"layout__table ",
+			"layout__table",
+			"logo-old",
+			"vg-content-block ",
+			"table-cell",
+			"first-col",
+			"env",
+			"images/sprite_not/",
+			"workshops",
+			"@extend",
+			"cfc_workshops",
+			"/css/",
+			"social",
+			"images/",
+			"url('images/",
+			"url('images",
+			"images",
+			"CSS",
+			"Fichier",
+			" mis à jour, Maîîîîîître.",
+			"''",
+			" # it's copied into the target directory",
+			"/n",
+			"\"",
+			" # it's copied into the target directory",
+			"\"",
+			"\\n",
+			".\"",
+			"/n",
+			"î",
+			"css_file",
+			"theme_folder",
+			"trgt",
+			"target",
+			"put_file",
+			"file",
+			"site-logo",
+			"$$",
+			"hyphens"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vgfadein",
+			"images/",
+			"images/sprite_not/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_test/markdown.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								808,
+								808
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 644.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_in/sass/stylesheet.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3139.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 170.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Marked - Custom CSS.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wp-con",
+				"Dossier d'Installation/wp-config.php"
+			],
+			[
+				"404",
+				"Dossier de Theme/404.php"
+			],
+			[
+				"main",
+				"Dossier de Theme/js/main.js"
+			],
+			[
+				"style",
+				"Dossier de Theme/style.css"
+			],
+			[
+				"wp-conf",
+				"Dossier d'Installation/wp-config.php"
+			],
+			[
+				"sty",
+				"Dossier de Theme/style.css"
+			],
+			[
+				"ugly",
+				"Dossier de Theme/sass/_ugly.scss"
+			],
+			[
+				"base",
+				"Dossier de Theme/sass/_base.scss"
+			],
+			[
+				"sprit",
+				"Dossier de Theme/sass/_sprite.scss"
+			],
+			[
+				"_admin",
+				"Dossier de Theme/sass/custom_admin.scss"
+			],
+			[
+				"custom_admi",
+				"Dossier de Theme/css/custom_admin.css"
+			],
+			[
+				"style.css",
+				"Dossier de Theme/style.css"
+			],
+			[
+				"cfc",
+				"Dossier de Theme/functions/cfc_custom.php"
+			],
+			[
+				"custom_",
+				"Dossier de Theme/css/custom_admin.css"
+			],
+			[
+				"deplo",
+				"Dossier de Theme/sass/deploy.py"
+			],
+			[
+				"debu",
+				"Dossier de Theme/sass/_debug.scss"
+			],
+			[
+				"cfc_cust",
+				"Dossier de Theme/functions/cfc_custom.php"
+			],
+			[
+				"heade",
+				"Dossier de Theme/header.php"
+			],
+			[
+				"query.php",
+				"Dossier d'Installation/wp-includes/query.php"
+			],
+			[
+				"wp-config",
+				"Dossier d'Installation/wp-config.php"
+			],
+			[
+				"config",
+				"Dossier des Plugins/ultimate-maintenance-mode/inc/config.php"
+			],
+			[
+				"custom_pos",
+				"Dossier de Theme/functions/custom_post_types.php"
+			],
+			[
+				"login",
+				"Dossier de Theme/css/custom_login.css"
+			],
+			[
+				"expo",
+				"Dossier de Theme/content-expo-spectacles.php"
+			],
+			[
+				"head",
+				"Dossier de Theme/header.php"
+			],
+			[
+				"footer",
+				"Dossier de Theme/footer.php"
+			],
+			[
+				"hea",
+				"Dossier de Theme/header.php"
+			],
+			[
+				"header",
+				"Dossier de Theme/header.php"
+			],
+			[
+				"sing",
+				"Dossier de Theme/single.php"
+			],
+			[
+				"_rese",
+				"Dossier de Theme/css/knacss/sass/helpers/_reset.scss"
+			],
+			[
+				"kna",
+				"Dossier de Theme/css/knacss.css"
+			],
+			[
+				".css",
+				"Dossier de Theme/style.css"
+			],
+			[
+				"foo",
+				"Dossier de Theme/footer.php"
+			],
+			[
+				"page",
+				"Dossier de Theme/page-expo_spectacles.php"
+			],
+			[
+				"content",
+				"Dossier de Theme/content.php"
+			],
+			[
+				"foor",
+				"Dossier de Theme/footer.php"
+			],
+			[
+				"post-",
+				"Dossier d'Installation/wp-includes/post-template.php"
+			],
+			[
+				"stud",
+				"Dossier de Theme/page-study.php"
+			],
+			[
+				"singl",
+				"Dossier de Theme/single copie.php"
+			],
+			[
+				"ind",
+				"Dossier de Theme/index.php"
+			],
+			[
+				"scru",
+				"Dossier de Theme/functions/script_style_cleanups.php"
+			],
+			[
+				"site",
+				"sitebuilder.py"
+			],
+			[
+				"list",
+				"layouts/listitem.html"
+			],
+			[
+				"arch",
+				"layouts/archives.html"
+			],
+			[
+				"tag.md",
+				"content/tag.md"
+			],
+			[
+				"def",
+				"layouts/default.html"
+			],
+			[
+				"helpe",
+				"lib/helpers.rb"
+			],
+			[
+				"medi",
+				"content/sass/_medias.scss"
+			],
+			[
+				"inde",
+				"content/index.md"
+			],
+			[
+				".md",
+				"content/mon-premier-article.md"
+			],
+			[
+				"scss",
+				"content/sass/stylesheet.scss"
+			],
+			[
+				"troi",
+				"content/mon-troisieme-article.md"
+			],
+			[
+				"arti",
+				"content/mon-quatrieme-article.md"
+			],
+			[
+				"article",
+				"content/mon-premier-article.md"
+			],
+			[
+				"html",
+				"layouts/content-blog-list.html"
+			],
+			[
+				"qua",
+				"content/mon-quatrieme-article.md"
+			],
+			[
+				"articl",
+				"content/Mon premier article.md"
+			],
+			[
+				"rb",
+				"lib/helpers.rb"
+			],
+			[
+				"debug",
+				"content/sass/_debug.scss"
+			],
+			[
+				"shee",
+				"output/stylesheet.css"
+			],
+			[
+				"_",
+				"content/sass/_print.scss"
+			],
+			[
+				"grid",
+				"content/sass/_grid.scss"
+			],
+			[
+				"ug",
+				"content/sass/_ugly.scss"
+			],
+			[
+				"bas",
+				"content/sass/_base.scss"
+			],
+			[
+				"foot",
+				"layouts/footer.slim"
+			],
+			[
+				"css",
+				"output/stylesheet.css"
+			],
+			[
+				"md",
+				"content/index.md"
+			],
+			[
+				"ui",
+				"content/sass/_ui.scss"
+			],
+			[
+				"side",
+				"layouts/sidebar.slim"
+			],
+			[
+				"sli",
+				"layouts/sidebar.slim"
+			],
+			[
+				"slim",
+				"layouts/default.slim"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
