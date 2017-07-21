@@ -1,0 +1,19 @@
+
+
+/**
+ * :: Debug
+ */
+
+html, body
+{
+	// background-image: repeating-linear-gradient(to bottom, rgba($colorset-main_white, 0) 0px, rgba($colorset-main_white, 0) 22.9px, rgba($colorset-main_blue-neutral, 0.35) 23px, rgba($colorset-main_blue-neutral, 0.35) 24px)
+
+	background-image: repeating-linear-gradient(to bottom, rgba($colorset-main_white, 0) 0px, rgba($colorset-main_white, 0) 16.9px, rgba($colorset-main_red-neutral, 0.15) 17px, rgba($colorset-main_red-neutral, 0.15) 18px, rgba($colorset-main_white, 0) 18.1px, rgba($colorset-main_white, 0) 22.9px, rgba($colorset-main_blue-neutral, 0.10) 23px, rgba($colorset-main_blue-neutral, 0.10) 24px)
+}
+
+// voir les limites des titrages
+h1, h2, h3, h4, h5, h6
+{
+	// background-color: $colorset-main_grey-lighter;
+	// box-shadow: inset 0px 0px 0px 1px $colorset-main_grey-light;
+}
